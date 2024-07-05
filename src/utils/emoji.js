@@ -1,0 +1,28 @@
+const emojiToPath = {
+    "🏠": "icons/House-With-Garden-Flat-icon.png",
+    "🚶": "icons/person-walking-microsoft.png",
+    "📍": "icons/round-pushpin.png",
+    "🚧": "icons/construction-icon.png",
+    "➡": "icons/Right-Arrow.png",
+    "→": "icons/Right-Arrow.png",
+    "⬅": "icons/left-arrow.png",
+    "←": "icons/left-arrow.png",
+    "⬆": "icons/up-arrow.png",
+    "↑": "icons/up-arrow.png",
+    "↓": "icons/down-arrow.png",
+    "⬇": "icons/down-arrow.png",
+    "1": "icons/keycap-1.png",
+    "2": "icons/keycap-2.png",
+    "3": "icons/keycap-3.png",
+    "4": "icons/keycap-4.png",
+    "5": "icons/keycap-5.png",
+    "🟥": "icons/red-square.png",
+    "🟨": "icons/yellow-square.png",
+    "🟪": "icons/purple-square-emoji.png",
+    "🟩": "icons/green-square-emoji.png",
+    "🟦": "icons/blue-square-emoji.png",
+    "✅": "icons/check-mark-button.png",
+    "🏢": "icons/office-icon.png",
+    "⬜": "icons/large-white-square.png"
+}
+export default emojiToPath;

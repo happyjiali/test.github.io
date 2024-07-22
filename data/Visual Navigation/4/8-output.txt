@@ -1,0 +1,83 @@
+To navigate from 🏠 to 🏢, we need to find the path that avoids the 🚧 obstacles and follows the ⬜ roads. Let's start by moving from the home to the office step by step.
+
+Starting at 🏠:
+
+```
+⬜⬜⬜⬜⬜
+⬜🚧🚧🚧⬜
+⬜⬜⬜🚧🏢
+🚧🚧⬜🚧🚧
+🚧🚧🏠🚧🚧
+```
+
+Step 1: Move up from 🏠 to the ⬜ above it.
+
+```
+⬜⬜⬜⬜⬜
+⬜🚧🚧🚧⬜
+⬜⬜⬜🚧🏢
+🚧🚧🏠🚧🚧
+🚧🚧⬜🚧🚧
+```
+
+Step 2: Move left from the current position to the end of the continuous road.
+
+```
+⬜⬜⬜⬜⬜
+⬜🚧🚧🚧⬜
+⬜⬜⬜🚧🏢
+🚧🏠⬜🚧🚧
+🚧🚧⬜🚧🚧
+```
+
+Step 3: Move up from the current position to the ⬜ above it.
+
+```
+⬜⬜⬜⬜⬜
+⬜🏠🚧🚧⬜
+⬜⬜⬜🚧🏢
+🚧⬜⬜🚧🚧
+🚧🚧⬜🚧🚧
+```
+
+Step 4: Move right from the current position to the end of the continuous road.
+
+```
+⬜⬜⬜⬜⬜
+⬜🚧🚧🏠⬜
+⬜⬜⬜🚧🏢
+🚧⬜⬜🚧🚧
+🚧🚧⬜🚧🚧
+```
+
+Step 5: Move down from the current position to the ⬜ below it.
+
+```
+⬜⬜⬜⬜⬜
+⬜🚧🚧⬜⬜
+⬜⬜⬜🚧🏠
+🚧⬜⬜🚧🚧
+🚧🚧⬜🚧🚧
+```
+
+Step 6: Move right from the current position to the 🏢, which is the destination.
+
+```
+⬜⬜⬜⬜⬜
+⬜🚧🚧⬜⬜
+⬜⬜⬜🚧🏠
+🚧⬜⬜🚧🚧
+🚧🚧⬜🚧🚧
+```
+
+The final map with the path taken:
+
+```
+⬜⬜⬜⬜⬜
+⬜🚧🚧⬜⬜
+⬜⬜⬜🚧🏠
+🚧⬜⬜🚧🚧
+🚧🚧⬜🚧🚧
+```
+
+The steps taken to reach the office 🏢 from home 🏠 are: Up, Left, Up, Right, Down, Right.

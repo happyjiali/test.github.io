@@ -1,0 +1,57 @@
+Starting from 🏠, let's navigate step by step:
+
+1. Move right from 🏠 to the end of the road:
+```
+🚧🚧🚧🚧🏢
+🚧🚧🚧🚧⬜
+🚧🚧⬜⬜⬜
+🚧🚧⬜🚧🚧
+🏠➡️⬜⬜🚧🚧
+```
+
+2. Move up from the current position to the end of the road:
+```
+🚧🚧🚧🚧🏢
+🚧🚧🚧🚧⬜
+🚧🚧⬆️⬜⬜
+🚧🚧⬜🚧🚧
+🏠⬜⬜🚧🚧
+```
+
+3. Move left from the current position to the end of the road:
+```
+🚧🚧🚧🚧🏢
+🚧🚧🚧🚧⬜
+🚧🚧⬅️⬜⬜
+🚧🚧⬜🚧🚧
+🏠⬜⬜🚧🚧
+```
+
+4. Move up from the current position to the end of the road:
+```
+🚧🚧🚧🚧🏢
+🚧🚧⬆️🚧⬜
+🚧🚧⬜🚧⬜
+🚧🚧⬜🚧🚧
+🏠⬜⬜🚧🚧
+```
+
+5. Move right from the current position to the end of the road:
+```
+🚧🚧🚧🚧🏢
+🚧🚧➡️🚧⬜
+🚧🚧⬜🚧⬜
+🚧🚧⬜🚧🚧
+🏠⬜⬜🚧🚧
+```
+
+6. Move up from the current position to reach the destination 🏢:
+```
+🚧🚧🚧🚧⬆️
+🚧🚧⬜🚧⬜
+🚧🚧⬜🚧⬜
+🚧🚧⬜🚧🚧
+🏠⬜⬜🚧🚧
+```
+
+The steps to navigate from 🏠 to 🏢 are: Right, Up, Left, Up, Right, Up.

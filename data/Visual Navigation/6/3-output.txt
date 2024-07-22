@@ -1,0 +1,84 @@
+Starting from 🏠, let's navigate step by step to 🏢.
+
+Initial map:
+```
+⬜⬜⬜🚧🚧🚧🏢
+⬜🚧⬜🚧🚧🚧⬜
+⬜🚧🏠🚧⬜⬜⬜
+⬜🚧🚧🚧⬜🚧🚧
+⬜⬜⬜⬜⬜🚧🚧
+```
+
+Step 1: Move right from 🏠 to the end of the continuous road.
+```
+⬜⬜⬜🚧🚧🚧🏢
+⬜🚧⬜🚧🚧🚧⬜
+⬜🚧🏠→→→⬜
+⬜🚧🚧🚧⬜🚧🚧
+⬜⬜⬜⬜⬜🚧🚧
+```
+
+Step 2: Move up from the current position to the end of the continuous road.
+```
+⬜⬜⬜🚧🚧🚧🏢
+⬜🚧↑🚧🚧🚧⬜
+⬜🚧🏠🚧⬜⬜⬜
+⬜🚧🚧🚧⬜🚧🚧
+⬜⬜⬜⬜⬜🚧🚧
+```
+
+Step 3: Move left from the current position to the end of the continuous road.
+```
+⬜←←←🚧🚧🚧🏢
+⬜🚧↑🚧🚧🚧⬜
+⬜🚧🏠🚧⬜⬜⬜
+⬜🚧🚧🚧⬜🚧🚧
+⬜⬜⬜⬜⬜🚧🚧
+```
+
+Step 4: Move down from the current position to the end of the continuous road.
+```
+⬜⬜⬜🚧🚧🚧🏢
+⬜🚧↓🚧🚧🚧⬜
+⬜🚧🏠🚧⬜⬜⬜
+⬜🚧↓🚧⬜🚧🚧
+⬜⬜⬜↓⬜🚧🚧
+```
+
+Step 5: Move right from the current position to the end of the continuous road.
+```
+⬜⬜⬜🚧🚧🚧🏢
+⬜🚧↓🚧🚧🚧⬜
+⬜🚧🏠🚧⬜⬜⬜
+⬜🚧→→→⬜🚧🚧
+⬜⬜⬜↓⬜🚧🚧
+```
+
+Step 6: Move up from the current position to the end of the continuous road.
+```
+⬜⬜⬜🚧🚧🚧🏢
+⬜🚧↑🚧🚧🚧⬜
+⬜🚧🏠🚧⬜⬜⬜
+⬜🚧↑🚧⬜🚧🚧
+⬜⬜⬜↓⬜🚧🚧
+```
+
+Step 7: Move right from the current position to the end of the continuous road.
+```
+⬜⬜⬜🚧🚧🚧🏢
+⬜🚧→→→→→⬜
+⬜🚧🏠🚧⬜⬜⬜
+⬜🚧↑🚧⬜🚧🚧
+⬜⬜⬜↓⬜🚧🚧
+```
+
+Step 8: Move up from the current position to reach the destination 🏢.
+```
+⬜⬜⬜🚧🚧🚧🏢
+⬜🚧↑🚧🚧🚧⬜
+⬜🚧🏠🚧⬜⬜⬜
+⬜🚧↑🚧⬜🚧🚧
+⬜⬜⬜↓⬜🚧🚧
+```
+
+The destination 🏢 has been reached following the steps above.

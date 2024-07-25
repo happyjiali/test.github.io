@@ -14,13 +14,11 @@ We have two variations for Tetromino T (🟨), two variations for Tetromino L (�
 Let's start with Tetromino I (🟥) because it has the most straightforward variations. We can see that Variation 2 (horizontal) will not fit anywhere in the target rectangle without overlapping existing polyominoes. Therefore, we must use Variation 1 (vertical) for Tetromino I.
 
 Placing Tetromino I (🟥) Variation 1 in the only possible position:
-```
 🟥
 🟥
 🟥
 🟥
 🟦🟦🟦🟦
-```
 
 The target rectangle now looks like this:
 ```
@@ -34,13 +32,11 @@ The target rectangle now looks like this:
 Next, let's consider Tetromino L (🟪). Variation 1 will not fit without overlapping the existing green polyominoes or going outside the rectangle. Therefore, we must use Variation 5 for Tetromino L.
 
 Placing Tetromino L (🟪) Variation 5 in the only possible position:
-```
 ⬜🟪
 ⬜🟪
 🟪🟪
 🟩
 🟦🟦🟦🟦
-```
 
 The target rectangle now looks like this:
 ```

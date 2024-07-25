@@ -10,7 +10,6 @@ The target rectangle with 8 empty squares is:
 ```
 
 We have two variations of the Tetromino T to consider:
-```
 Variation 2:
 🟨⬜
 🟨🟨
@@ -20,7 +19,6 @@ Variation 3:
 ⬜🟨
 🟨🟨
 ⬜🟨
-```
 
 We can see that Variation 2 of the Tetromino T cannot fit into the empty spaces because it would require a vertical column of three empty squares, which we do not have. However, Variation 3 can fit into the empty spaces on the left side of the rectangle, as it matches the pattern of the empty squares there.
 

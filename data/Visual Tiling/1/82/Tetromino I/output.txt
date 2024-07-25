@@ -25,16 +25,12 @@ Now, let's place Variation 2 of Tetromino I into the rectangle:
 With Tetromino I placed, we now have three empty squares left in a shape that matches one of the Tetromino L variations. Let's see which one fits:
 
 Variation 3 of Tetromino L:
-```
 🟨🟨🟨
 ⬜⬜🟨
-```
 
 Variation 4 of Tetromino L:
-```
 🟨🟨🟨
 🟨⬜⬜
-```
 
 We can see that Variation 3 of Tetromino L fits perfectly into the remaining empty squares:
 

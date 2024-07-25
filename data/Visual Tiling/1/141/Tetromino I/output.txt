@@ -11,16 +11,12 @@ The target rectangle with 8 empty squares is:
 
 The variations for Tetromino I are:
 Variation 1 (vertical):
-```
 🟩
 🟩
 🟩
 🟩
-```
 Variation 2 (horizontal):
-```
 🟩🟩🟩🟩
-```
 
 We can see that the empty squares form two horizontal lines of 4 squares each. Since the Tetromino I in Variation 1 is vertical and would not fit into a horizontal line without overlapping or going outside the rectangle, it cannot be the correct variation.
 

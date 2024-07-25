@@ -23,18 +23,14 @@ Now, we have three empty squares left, which must be filled by the Tetromino T. 
 Let's visualize the two variations of Tetromino T:
 
 Variation 2:
-```
 🟪⬜
 🟪🟪
 🟪⬜
-```
 
 Variation 3:
-```
 ⬜🟪
 🟪🟪
 ⬜🟪
-```
 
 We can see that Variation 2 of Tetromino T cannot fit into the remaining empty squares because it would require a vertical line of three empty squares, which we do not have. However, Variation 3 of Tetromino T can fit into the remaining empty squares if we place it with the single block on the top right. Let's place Variation 3 into the target rectangle:
 

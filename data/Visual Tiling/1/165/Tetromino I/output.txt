@@ -11,28 +11,20 @@ Target rectangle:
 
 Variations for Tetromino L:
 Variation 3:
-```
 🟩🟩🟩
 ⬜⬜🟩
-```
 Variation 7:
-```
 🟩⬜⬜
 🟩🟩🟩
-```
 
 Variations for Tetromino I:
 Variation 1:
-```
 🟨
 🟨
 🟨
 🟨
-```
 Variation 2:
-```
 🟨🟨🟨🟨
-```
 
 We have 8 empty squares to fill, and we have two tetrominoes: L-shaped with 4 squares and I-shaped with 4 squares. We need to fit them without overlapping and without rotation or reflection.
 

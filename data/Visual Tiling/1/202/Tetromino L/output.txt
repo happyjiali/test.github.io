@@ -23,27 +23,21 @@ The Tetromino I can only fit in the rectangle in its Variation 2 (horizontal) be
 
 Now, we have the following empty spaces left for the Tetromino L:
 
-```
 ⬜
 ⬜
 ⬜⬜
-```
 
 We need to fit the Tetromino L into these spaces. Let's examine the provided variations for Tetromino L:
 
 Variation 1:
-```
 🟦🟦
 🟦⬜
 🟦⬜
-```
 
 Variation 6:
-```
 🟦⬜
 🟦⬜
 🟦🟦
-```
 
 By looking at the remaining empty spaces, we can see that Variation 1 of Tetromino L will not fit because it requires two empty squares next to each other horizontally at the top, which we do not have. However, Variation 6 will fit perfectly into the remaining empty spaces.
 

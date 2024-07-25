@@ -13,31 +13,23 @@ We have 8 empty squares to fill with the Tetromino I (🟩) and Tetromino T (�
 Let's consider the variations for Tetromino I:
 
 Variation 1 (Vertical):
-```
 🟩
 🟩
 🟩
 🟩
-```
 
 Variation 2 (Horizontal):
-```
 🟩🟩🟩🟩
-```
 
 Now, let's consider the variations for Tetromino T:
 
 Variation 1:
-```
 ⬜🟨⬜
 🟨🟨🟨
-```
 
 Variation 4:
-```
 🟨🟨🟨
 ⬜🟨⬜
-```
 
 We can immediately see that Variation 1 of Tetromino I (vertical) cannot fit into the rectangle without overlapping existing polyominoes or going outside the rectangle. There is no vertical space of 4 empty squares.
 

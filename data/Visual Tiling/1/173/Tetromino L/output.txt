@@ -25,17 +25,13 @@ After placing Tetromino I (🟨) in the bottom row, the target rectangle looks l
 Now, we have to fit Tetromino L (🟩). We have two variations to choose from. Let's examine each variation to see which one can fit into the remaining empty squares.
 
 Variation 3 of Tetromino L:
-```
 🟩🟩🟩
 ⬜⬜🟩
-```
 If we try to fit Variation 3 into the remaining empty squares, we can see that it cannot fit without overlapping existing polyominoes or going outside the rectangle.
 
 Variation 4 of Tetromino L:
-```
 🟩🟩🟩
 🟩⬜⬜
-```
 Variation 4 can fit into the remaining empty squares on the left side of the rectangle. Let's place Variation 4 of Tetromino L into the target rectangle:
 
 ```

@@ -11,17 +11,13 @@ First, let's look at the target rectangle and identify where the Tetromino I (�
 Now, we have a 3x2 area of empty squares remaining. The Tetromino T must fit into this space. Let's try both variations of Tetromino T to see which one fits.
 
 Variation 1 of Tetromino T:
-```
 ⬜🟦⬜
 🟦🟦🟦
-```
 This variation cannot fit into the remaining space because it would require a 3x2 area with the middle square of the top row being empty, which is not the case.
 
 Variation 4 of Tetromino T:
-```
 🟦🟦🟦
 ⬜🟦⬜
-```
 This variation can fit into the remaining space because it matches the shape of the empty area. Let's place Variation 4 of Tetromino T into the target rectangle:
 
 ```

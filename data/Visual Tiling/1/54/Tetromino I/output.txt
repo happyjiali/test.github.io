@@ -11,28 +11,20 @@ The target rectangle with 8 empty squares is:
 
 We have two variations of Tetromino I:
 Variation 1 (vertical):
-```
 🟦
 🟦
 🟦
 🟦
-```
 Variation 2 (horizontal):
-```
 🟦🟦🟦🟦
-```
 
 And two variations of Tetromino T:
 Variation 1:
-```
 ⬜🟨⬜
 🟨🟨🟨
-```
 Variation 4:
-```
 🟨🟨🟨
 ⬜🟨⬜
-```
 
 We need to fit these into the target rectangle. Let's start with Tetromino I since it has a simpler shape and fewer options for placement.
 

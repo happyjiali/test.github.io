@@ -12,19 +12,15 @@ Looking at the target rectangle, we can see that the Tetromino I (🟦) can only
 
 Now, we have to place the Tetromino T (🟩). We have two variations to choose from, and we need to find a place where one of these variations can fit without rotation or reflection. The remaining empty squares form a shape that looks like this:
 
-```
 ⬜
 ⬜⬜
 ⬜
-```
 
 This shape matches Variation 2 of the Tetromino T:
 
-```
 🟩⬜
 🟩🟩
 🟩⬜
-```
 
 So, we can place Variation 2 of the Tetromino T in the remaining empty squares:
 

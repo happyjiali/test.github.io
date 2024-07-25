@@ -11,28 +11,20 @@ The target rectangle with 8 empty squares is:
 
 We have two variations of Tetromino I:
 Variation 1 (vertical):
-```
 🟥
 🟥
 🟥
 🟥
-```
 Variation 2 (horizontal):
-```
 🟥🟥🟥🟥
-```
 
 We also have two variations of Tetromino L:
 Variation 4:
-```
 🟦🟦🟦
 🟦⬜⬜
-```
 Variation 7:
-```
 🟦⬜⬜
 🟦🟦🟦
-```
 
 Now, let's try to fit the Tetromino L variations first, as they have an L shape that might fit into the corners of the empty spaces.
 

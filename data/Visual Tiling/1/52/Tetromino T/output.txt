@@ -11,30 +11,22 @@ The target rectangle with empty squares (⬜) looks like this:
 
 We have two variations of Tetromino T (🟩) to consider:
 Variation 2:
-```
 🟩⬜
 🟩🟩
 🟩⬜
-```
 Variation 3:
-```
 ⬜🟩
 🟩🟩
 ⬜🟩
-```
 
 And two variations of Tetromino I (🟦):
 Variation 1:
-```
 🟦
 🟦
 🟦
 🟦
-```
 Variation 2:
-```
 🟦🟦🟦🟦
-```
 
 We can immediately see that the Tetromino I must be placed vertically (Variation 1) to fill the four empty squares in the bottom row of the target rectangle. This is because there is no horizontal space of four consecutive empty squares anywhere else in the rectangle.
 

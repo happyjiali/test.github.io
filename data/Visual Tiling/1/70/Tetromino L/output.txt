@@ -22,16 +22,12 @@ We can see that the Tetromino I can only fit in the second row horizontally beca
 Now, we have three empty squares left, which must be filled by the Tetromino L. The Tetromino L variations provided are:
 
 Variation 7:
-```
 🟪⬜⬜
 🟪🟪🟪
-```
 
 Variation 8:
-```
 ⬜⬜🟪
 🟪🟪🟪
-```
 
 We need to fit the Tetromino L in the bottom right corner of the rectangle. Variation 7 cannot fit because it would require an empty square to the left of the bottom row of the L shape, which is not available. Variation 8, however, can fit perfectly with the single square on the top right and the three squares in a line on the bottom.
 

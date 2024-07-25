@@ -12,11 +12,9 @@ We have two polyominoes to fit into this rectangle: Tetromino T (🟥) and Tetro
 
 Let's start by looking at the Tetromino T variations. We can see that the Tetromino T must fit into the two empty squares on the second row and one empty square on the first and third rows. The only way to fit the Tetromino T into these squares is by using Variation 2:
 
-```
 🟥⬜
 🟥🟥
 🟥⬜
-```
 
 Placing this variation into the target rectangle, we get:
 
@@ -30,9 +28,7 @@ Placing this variation into the target rectangle, we get:
 
 Now, we have four empty squares left at the bottom row for the Tetromino I. Since Tetromino I has only two variations (a vertical line and a horizontal line), and we need to fill a horizontal space, we must use Variation 2 of Tetromino I:
 
-```
 🟦🟦🟦🟦
-```
 
 Placing this variation into the target rectangle, we get the final configuration:
 

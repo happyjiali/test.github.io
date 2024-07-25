@@ -13,17 +13,13 @@ We have two polyominoes to fit into this rectangle: Tetromino I (🟥) and Tetro
 Let's consider the variations of Tetromino I:
 
 Variation 1 (Vertical):
-```
 🟥
 🟥
 🟥
 🟥
-```
 
 Variation 2 (Horizontal):
-```
 🟥🟥🟥🟥
-```
 
 Now, let's look at the empty spaces in the target rectangle. We can see that there is no vertical column of four empty squares for Variation 1 of Tetromino I to fit into. However, there is a horizontal row of four empty squares at the top of the rectangle where Variation 2 of Tetromino I could fit.
 
@@ -40,16 +36,12 @@ Let's place Variation 2 of Tetromino I into the target rectangle:
 Now, we need to fit Tetromino T (🟨) into the remaining empty squares. We have two variations of Tetromino T to consider:
 
 Variation 1 (T-shape):
-```
 ⬜🟨⬜
 🟨🟨🟨
-```
 
 Variation 4 (Upside-down T-shape):
-```
 🟨🟨🟨
 ⬜🟨⬜
-```
 
 Looking at the remaining empty squares, we can see that Variation 4 of Tetromino T will fit perfectly into the remaining space:
 

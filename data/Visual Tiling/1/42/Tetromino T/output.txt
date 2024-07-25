@@ -12,16 +12,12 @@ We have two polyominoes to fit: Tetromino T (🟥) and Tetromino I (🟦). Let's
 
 Variations for Tetromino I:
 - Variation 1 (vertical):
-```
 🟦
 🟦
 🟦
 🟦
-```
 - Variation 2 (horizontal):
-```
 🟦🟦🟦🟦
-```
 
 We can see that the only place we can fit the Tetromino I is in the bottom row of the target rectangle, since it's the only place with four consecutive empty squares. We'll use Variation 2 (horizontal) for Tetromino I:
 
@@ -37,15 +33,11 @@ Now, let's look at the variations for Tetromino T:
 
 Variations for Tetromino T:
 - Variation 1:
-```
 ⬜🟥⬜
 🟥🟥🟥
-```
 - Variation 4:
-```
 🟥🟥🟥
 ⬜🟥⬜
-```
 
 We need to fit Tetromino T into the remaining empty squares. We can see that Variation 1 of Tetromino T cannot fit because it would require two empty squares above a single empty square, which is not available. However, Variation 4 can fit perfectly into the three empty squares at the top and the single empty square in the second row:
 

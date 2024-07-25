@@ -21,22 +21,18 @@ We have two polyominoes to fit into this rectangle: Tetromino I (🟩) and Tetro
 Now, we have to fit the Tetromino T (🟪) into the remaining empty squares. We have two variations to choose from, but we can see that Variation 2 of Tetromino T cannot fit because it would require two empty squares horizontally next to each other, which we do not have. Let's visualize Variation 2 to confirm:
 
 Variation 2:
-```
 🟪⬜
 🟪🟪
 🟪⬜
-```
 
 There is no place in the target rectangle where this variation can fit without overlapping existing polyominoes or going outside the rectangle.
 
 Now let's consider Variation 3 of Tetromino T:
 
 Variation 3:
-```
 ⬜🟪
 🟪🟪
 ⬜🟪
-```
 
 This variation can fit into the remaining empty squares on the right side of the rectangle. Let's place it there:
 

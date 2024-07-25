@@ -16,17 +16,13 @@ The Tetromino I can be placed either vertically (Variation 1) or horizontally (V
 Let's first try to fit the Tetromino I, as it has fewer options for placement.
 
 Variation 1 of Tetromino I:
-```
 🟥
 🟥
 🟥
 🟥
-```
 
 Variation 2 of Tetromino I:
-```
 🟥🟥🟥🟥
-```
 
 If we try to fit Variation 1 of Tetromino I into the rectangle, we quickly see that it cannot be placed without overlapping existing polyominoes or going outside the rectangle. There are no four consecutive vertical empty squares.
 
@@ -44,10 +40,8 @@ Let's place Variation 2 of Tetromino I into the rectangle:
 
 Now, we have only one empty square left, which is perfect for the Tetromino T, Variation 1:
 
-```
 ⬜🟨⬜
 🟨🟨🟨
-```
 
 We can place the Tetromino T in the second row, filling the remaining empty squares:
 

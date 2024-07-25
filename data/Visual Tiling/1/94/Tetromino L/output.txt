@@ -24,21 +24,17 @@ Now, we have to fit the Tetromino L (🟪). We have two variations to choose fro
 
 Let's try Variation 2 of Tetromino L:
 
-```
 🟪🟪
 ⬜🟪
 ⬜🟪
-```
 
 If we try to fit Variation 2, we can see that it cannot be placed without overlapping the existing Tetromino I (🟩) or going outside the rectangle.
 
 Now let's try Variation 5 of Tetromino L:
 
-```
 ⬜🟪
 ⬜🟪
 🟪🟪
-```
 
 This variation can fit perfectly into the remaining empty squares:
 

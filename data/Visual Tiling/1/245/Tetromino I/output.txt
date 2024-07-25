@@ -13,18 +13,14 @@ We have two polyominoes to fit into this rectangle: Tetromino T (🟩) and Tetro
 Let's start with the Tetromino T variations. We have two variations to choose from:
 
 Variation 2:
-```
 🟩⬜
 🟩🟩
 🟩⬜
-```
 
 Variation 3:
-```
 ⬜🟩
 🟩🟩
 ⬜🟩
-```
 
 We can see that Variation 2 of Tetromino T cannot fit into the rectangle because it would require a 3x2 area of empty squares, which we do not have. Variation 3, however, can fit into the rectangle in the leftmost column, as it matches the pattern of empty squares there. Let's place Variation 3 of Tetromino T into the rectangle:
 

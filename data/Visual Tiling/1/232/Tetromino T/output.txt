@@ -12,31 +12,23 @@ The target rectangle with 8 empty squares looks like this:
 We have two variations of Tetromino T to consider:
 
 Variation 2:
-```
 🟪⬜
 🟪🟪
 🟪⬜
-```
 
 Variation 4:
-```
 🟪🟪🟪
 ⬜🟪⬜
-```
 
 We also have two variations of Tetromino L:
 
 Variation 4:
-```
 🟨🟨🟨
 🟨⬜⬜
-```
 
 Variation 8:
-```
 ⬜⬜🟨
 🟨🟨🟨
-```
 
 Now, let's try to fit the Tetromino T variations into the target rectangle. We need to find a place where either variation 2 or variation 4 can fit without overlapping existing polyominoes or going outside the rectangle.
 

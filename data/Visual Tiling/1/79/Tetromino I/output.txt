@@ -13,30 +13,22 @@ We have two polyominoes to fit into this rectangle: Tetromino I (🟦) and Tetro
 
 The Tetromino I has two variations:
 Variation 1 (vertical):
-```
 🟦
 🟦
 🟦
 🟦
-```
 Variation 2 (horizontal):
-```
 🟦🟦🟦🟦
-```
 
 The Tetromino L has two variations provided:
 Variation 5:
-```
 ⬜🟨
 ⬜🟨
 🟨🟨
-```
 Variation 6:
-```
 🟨⬜
 🟨⬜
 🟨🟨
-```
 
 We can see that the bottom row of the target rectangle has 4 consecutive empty squares, which perfectly matches the horizontal Variation 2 of the Tetromino I. Let's place it there:
 ```

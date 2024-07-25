@@ -3,16 +3,12 @@ To solve this puzzle, we need to place the Tetromino T and Tetromino I into the 
 First, let's look at the Tetromino T variations. We have two variations to consider:
 
 Variation 1 of Tetromino T:
-```
 ⬜🟩⬜
 🟩🟩🟩
-```
 
 Variation 4 of Tetromino T:
-```
 🟩🟩🟩
 ⬜🟩⬜
-```
 
 Now, let's look at the empty spaces in the target rectangle. We have a 2x3 area at the bottom and a single square sticking out on the third row. This single square sticking out is a key indicator of where the Tetromino T must go, as it fits the shape of either variation of the Tetromino T. We can place the Tetromino T in such a way that the single square of the T fits into the single empty square on the third row.
 

@@ -13,30 +13,22 @@ We have two variations of Tetromino T (🟩) and two variations of Tetromino L (
 
 Variations for Tetromino T:
 Variation 1:
-```
 ⬜🟩⬜
 🟩🟩🟩
-```
 Variation 2:
-```
 🟩⬜
 🟩🟩
 🟩⬜
-```
 
 Variations for Tetromino L:
 Variation 2:
-```
 🟨🟨
 ⬜🟨
 ⬜🟨
-```
 Variation 5:
-```
 ⬜🟨
 ⬜🟨
 🟨🟨
-```
 
 We need to fit these variations into the target rectangle without overlapping any existing polyominoes or going outside the rectangle.
 

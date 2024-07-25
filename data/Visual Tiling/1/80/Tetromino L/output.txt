@@ -13,30 +13,22 @@ We have two polyominoes to fit into this rectangle: Tetromino L (🟨) and Tetro
 
 The variations for Tetromino L are:
 Variation 1:
-```
 🟨🟨
 🟨⬜
 🟨⬜
-```
 Variation 5:
-```
 ⬜🟨
 ⬜🟨
 🟨🟨
-```
 
 The variations for Tetromino I are:
 Variation 1:
-```
 🟪
 🟪
 🟪
 🟪
-```
 Variation 2:
-```
 🟪🟪🟪🟪
-```
 
 We need to fit these polyominoes into the empty squares without overlapping any existing polyominoes or going outside the rectangle. Let's start by trying to fit the Tetromino I since it has a simpler shape.
 

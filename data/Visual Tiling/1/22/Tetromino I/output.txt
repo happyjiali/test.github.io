@@ -13,33 +13,25 @@ We have two polyominoes to fit into this rectangle: Tetromino I (🟩) and Tetro
 Let's consider the variations for Tetromino I:
 
 Variation 1 (vertical):
-```
 🟩
 🟩
 🟩
 🟩
-```
 
 Variation 2 (horizontal):
-```
 🟩🟩🟩🟩
-```
 
 Now, let's look at the variations for Tetromino L:
 
 Variation 1:
-```
 🟪🟪
 🟪⬜
 🟪⬜
-```
 
 Variation 2:
-```
 🟪🟪
 ⬜🟪
 ⬜🟪
-```
 
 We can see that the bottom row of the target rectangle has four consecutive empty squares, which is a perfect fit for the horizontal variation (Variation 2) of Tetromino I. Let's place it there:
 

@@ -13,15 +13,11 @@ We have two polyominoes to fit into this rectangle: Tetromino L and Tetromino T.
 
 Variations for Tetromino L:
 Variation 4:
-```
 🟩🟩🟩
 🟩⬜⬜
-```
 Variation 8:
-```
 ⬜⬜🟩
 🟩🟩🟩
-```
 
 We can see that Variation 4 of Tetromino L cannot fit into the rectangle because it would require two empty squares to be on top of each other, which is not the case in the target rectangle. However, Variation 8 can fit into the rectangle in the bottom left corner, filling the three empty squares in the bottom row and one in the row above.
 
@@ -38,15 +34,11 @@ Now, we have three empty squares left in a T-shape, which matches the shape of T
 
 Variations for Tetromino T:
 Variation 1:
-```
 ⬜🟦⬜
 🟦🟦🟦
-```
 Variation 4:
-```
 🟦🟦🟦
 ⬜🟦⬜
-```
 
 Variation 1 of Tetromino T cannot fit because it would require an empty square above the center of the T, which is not available. However, Variation 4 can fit perfectly into the remaining empty squares.
 

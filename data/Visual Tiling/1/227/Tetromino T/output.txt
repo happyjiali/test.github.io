@@ -14,17 +14,13 @@ We have two polyominoes to fit into this rectangle: Tetromino I (🟥) and Tetro
 Let's first try to fit the Tetromino I (🟥), since it's the simpler of the two. We have two variations to choose from:
 
 Variation 1 (vertical):
-```
 🟥
 🟥
 🟥
 🟥
-```
 
 Variation 2 (horizontal):
-```
 🟥🟥🟥🟥
-```
 
 Looking at the target rectangle, we can see that the Tetromino I can only fit in the horizontal orientation (Variation 2) at the top row, because the vertical orientation (Variation 1) would not fit anywhere without overlapping existing polyominoes or going outside the rectangle.
 
@@ -40,16 +36,12 @@ So, we place the Tetromino I (🟥) in the top row:
 Now, we only have the Tetromino T (🟪) left to fit into the remaining empty squares. We have two variations to choose from:
 
 Variation 1:
-```
 ⬜🟪⬜
 🟪🟪🟪
-```
 
 Variation 4:
-```
 🟪🟪🟪
 ⬜🟪⬜
-```
 
 Looking at the remaining empty squares, we can see that Variation 1 of Tetromino T (🟪) will fit perfectly into the remaining space, as it matches the shape of the empty squares. Variation 4 would not fit because it would require an empty square above the center of the T, which is not available.
 

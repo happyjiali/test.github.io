@@ -12,11 +12,9 @@ Here's the target rectangle with the empty squares:
 
 Now, let's try to fit the Tetromino L (🟥) into one of the vertical spaces. We can use Variation 5 of the Tetromino L, which looks like this:
 
-```
 ⬜🟥
 ⬜🟥
 🟥🟥
-```
 
 Fitting Variation 5 of Tetromino L into the leftmost vertical space, we get:
 

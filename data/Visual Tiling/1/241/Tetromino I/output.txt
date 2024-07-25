@@ -13,33 +13,25 @@ We have two polyominoes to fit into this rectangle: Tetromino I (🟥) and Tetro
 Let's consider the variations for Tetromino I:
 
 Variation 1 (Vertical):
-```
 🟥
 🟥
 🟥
 🟥
-```
 
 Variation 2 (Horizontal):
-```
 🟥🟥🟥🟥
-```
 
 Now, let's look at the variations for Tetromino T:
 
 Variation 2:
-```
 🟩⬜
 🟩🟩
 🟩⬜
-```
 
 Variation 3:
-```
 ⬜🟩
 🟩🟩
 ⬜🟩
-```
 
 We can see that the Tetromino T variations can only fit in the two vertical empty spaces on the left side of the rectangle. This is because the horizontal space is not long enough to accommodate the Tetromino T without overlapping the existing 🟨 and 🟪 polyominoes.
 

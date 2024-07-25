@@ -11,16 +11,12 @@ First, let's look at the empty spaces in the target rectangle and determine wher
 Now, we have three empty squares left in a T-shape, which is the exact shape of the Tetromino T (🟪). We can only use the variations that fit into the empty T-shaped space without rotation or reflection. Let's see which variation fits:
 
 Variation 1 of Tetromino T:
-```
 ⬜🟪⬜
 🟪🟪🟪
-```
 
 Variation 4 of Tetromino T:
-```
 🟪🟪🟪
 ⬜🟪⬜
-```
 
 Since we cannot rotate or reflect the variations, only Variation 1 of Tetromino T will fit into the remaining empty space. Let's place it:
 

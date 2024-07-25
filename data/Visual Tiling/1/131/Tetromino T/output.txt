@@ -21,18 +21,14 @@ We have a total of 8 empty squares to fill with the Tetromino I (🟥) and Tetro
 Now, we have 4 empty squares left to fit the Tetromino T. Let's look at the variations of Tetromino T:
 
 Variation 2:
-```
 🟨⬜
 🟨🟨
 🟨⬜
-```
 
 Variation 3:
-```
 ⬜🟨
 🟨🟨
 ⬜🟨
-```
 
 We need to fit Tetromino T into the remaining empty squares. Variation 2 of Tetromino T cannot fit because it would require two empty squares on top of each other, which we do not have. Variation 3 of Tetromino T, however, can fit vertically into the remaining space:
 

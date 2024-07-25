@@ -33,17 +33,13 @@ Now, we have the following configuration:
 We need to fit Tetromino I (🟦) into the remaining empty squares. We have two variations of Tetromino I to consider:
 
 Variation 1 (vertical):
-```
 🟦
 🟦
 🟦
 🟦
-```
 
 Variation 2 (horizontal):
-```
 🟦🟦🟦🟦
-```
 
 Given the remaining empty squares, we can see that Variation 1 (vertical) will not fit anywhere in the rectangle because there are no four vertically contiguous empty squares. However, Variation 2 (horizontal) will fit perfectly in the bottom row:
 

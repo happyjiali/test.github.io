@@ -11,28 +11,20 @@ The target rectangle with 8 empty squares is:
 
 We have two variations of Tetromino I (🟩):
 Variation 1 (vertical):
-```
 🟩
 🟩
 🟩
 🟩
-```
 Variation 2 (horizontal):
-```
 🟩🟩🟩🟩
-```
 
 We also have two variations of Tetromino L (🟪):
 Variation 7:
-```
 🟪⬜⬜
 🟪🟪🟪
-```
 Variation 8:
-```
 ⬜⬜🟪
 🟪🟪🟪
-```
 
 Looking at the target rectangle, we can see that the Tetromino I (🟩) must be placed in the second row, as it's the only place with four consecutive empty squares. This means we must use Variation 2 (horizontal) of the Tetromino I.
 

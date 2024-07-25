@@ -23,18 +23,14 @@ Let's start with the Tetromino I (🟩), as it has only two variations and is si
 Now, we have to place the Tetromino L (🟪). We have two variations to choose from, and we need to fit it into the remaining 4 empty squares. Let's visualize each variation to see which one fits:
 
 Variation 2:
-```
 🟪🟪
 ⬜🟪
 ⬜🟪
-```
 
 Variation 5:
-```
 ⬜🟪
 ⬜🟪
 🟪🟪
-```
 
 We can see that Variation 2 of Tetromino L cannot fit into the remaining space because it would require two empty squares to be on top of each other, which is not the case. However, Variation 5 can fit perfectly into the remaining space, with the single square of the L going into the single empty square on the third row and the bottom part of the L filling the remaining three squares on the fourth row.
 

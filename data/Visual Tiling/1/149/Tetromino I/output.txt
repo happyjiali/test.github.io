@@ -13,28 +13,20 @@ We have two polyominoes to fit into this rectangle: Tetromino I (🟩) and Tetro
 
 The variations for Tetromino I are:
 Variation 1 (vertical):
-```
 🟩
 🟩
 🟩
 🟩
-```
 Variation 2 (horizontal):
-```
 🟩🟩🟩🟩
-```
 
 The variations for Tetromino T are:
 Variation 1:
-```
 ⬜🟨⬜
 🟨🟨🟨
-```
 Variation 4:
-```
 🟨🟨🟨
 ⬜🟨⬜
-```
 
 Now, let's try to fit the Tetromino T first, as it has a more complex shape than the Tetromino I. We can see that there is only one place where Tetromino T can fit without overlapping existing polyominoes or going outside the rectangle, which is at the bottom left corner. We can use either Variation 1 or Variation 4 for Tetromino T, but let's choose Variation 1 for this example:
 

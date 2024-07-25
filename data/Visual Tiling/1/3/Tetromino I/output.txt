@@ -12,17 +12,13 @@ Target rectangle with 8 empty squares:
 We have two variations of Tetromino I (🟥) to consider:
 
 Variation 1 (vertical):
-```
 🟥
 🟥
 🟥
 🟥
-```
 
 Variation 2 (horizontal):
-```
 🟥🟥🟥🟥
-```
 
 We also have two variations of Tetromino T (🟪) to consider, but we will focus on Tetromino I first.
 

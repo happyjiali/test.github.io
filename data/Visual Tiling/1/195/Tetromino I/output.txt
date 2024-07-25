@@ -11,30 +11,22 @@ The target rectangle with empty squares (⬜) looks like this:
 
 We have two variations of Tetromino T (🟥) that can fit into the empty spaces:
 Variation 2:
-```
 🟥⬜
 🟥🟥
 🟥⬜
-```
 Variation 3:
-```
 ⬜🟥
 🟥🟥
 ⬜🟥
-```
 
 And two variations of Tetromino I (🟪):
 Variation 1:
-```
 🟪
 🟪
 🟪
 🟪
-```
 Variation 2:
-```
 🟪🟪🟪🟪
-```
 
 We need to fit these polyominoes into the empty squares without overlapping any existing polyominoes or going outside the rectangle.
 

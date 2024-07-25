@@ -30,11 +30,9 @@ Now, we have the following empty spaces left for the Tetromino L (🟦):
 ```
 
 We can see that the only way to fit the Tetromino L (🟦) without overlapping or going outside the rectangle is to use Variation 6, which looks like this:
-```
 🟦⬜
 🟦⬜
 🟦🟦
-```
 
 So, the correct variation of Tetromino L to fit into the empty squares is:
 B. 6

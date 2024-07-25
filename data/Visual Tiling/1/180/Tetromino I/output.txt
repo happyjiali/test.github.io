@@ -11,28 +11,20 @@ The target rectangle with 8 empty squares is:
 
 We have two variations of Tetromino I (🟩) to consider:
 Variation 1 (vertical):
-```
 🟩
 🟩
 🟩
 🟩
-```
 Variation 2 (horizontal):
-```
 🟩🟩🟩🟩
-```
 
 We also have two variations of Tetromino T (🟨) to consider:
 Variation 1:
-```
 ⬜🟨⬜
 🟨🟨🟨
-```
 Variation 4:
-```
 🟨🟨🟨
 ⬜🟨⬜
-```
 
 Let's start with the Tetromino I (🟩). We need to find a place where we can fit either a vertical or horizontal line of four squares. Looking at the target rectangle, we can see that there is no vertical space of four empty squares, so Variation 1 of Tetromino I cannot be used. However, there is a horizontal space of four empty squares at the bottom row. Therefore, Variation 2 of Tetromino I can fit into the rectangle.
 

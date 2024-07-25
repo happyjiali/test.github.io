@@ -15,11 +15,9 @@ The Tetromino I can be placed either horizontally or vertically, and the Tetromi
 
 Let's consider the Tetromino T first. We can see that there is only one place where a vertical T can fit, which is on the left side of the rectangle. We can place Variation 2 of Tetromino T there:
 
-```
 🟩⬜
 🟩🟩
 🟩⬜
-```
 
 Fitting this variation into the target rectangle, we get:
 ```
@@ -32,9 +30,7 @@ Fitting this variation into the target rectangle, we get:
 
 Now, we have a 4x1 space left for the Tetromino I, which means we must use Variation 2 of Tetromino I to fill this space:
 
-```
 🟥🟥🟥🟥
-```
 
 Fitting this variation into the target rectangle, we get the final configuration:
 ```

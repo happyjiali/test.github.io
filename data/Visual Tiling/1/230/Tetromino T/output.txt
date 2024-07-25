@@ -10,10 +10,8 @@ First, let's look at the empty spaces in the target rectangle and determine wher
 
 Now, we have three empty squares left, which must be filled by the Tetromino T (🟪). The only way to fit the T shape into the remaining space is to use Variation 1, which has the following shape:
 
-```
 ⬜🟪⬜
 🟪🟪🟪
-```
 
 Let's place Variation 1 of the Tetromino T into the remaining empty squares:
 

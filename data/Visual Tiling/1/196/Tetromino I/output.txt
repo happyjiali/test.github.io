@@ -11,16 +11,12 @@ First, let's visualize the target rectangle with the empty squares:
 We have two polyominoes to fit into this rectangle: Tetromino T and Tetromino I. Let's consider the variations of Tetromino T first:
 
 Variation 1 of Tetromino T:
-```
 ⬜🟩⬜
 🟩🟩🟩
-```
 
 Variation 4 of Tetromino T:
-```
 🟩🟩🟩
 ⬜🟩⬜
-```
 
 We can see that Variation 1 of Tetromino T cannot fit into the rectangle because it would require two empty squares to be horizontally adjacent at the middle level of the rectangle, which is not the case. However, Variation 4 can fit into the rectangle if we place it in the bottom left corner, like this:
 
@@ -35,17 +31,13 @@ We can see that Variation 1 of Tetromino T cannot fit into the rectangle because
 Now, let's consider the variations of Tetromino I:
 
 Variation 1 of Tetromino I:
-```
 🟦
 🟦
 🟦
 🟦
-```
 
 Variation 2 of Tetromino I:
-```
 🟦🟦🟦🟦
-```
 
 Given the remaining empty squares, Variation 1 of Tetromino I cannot fit because there are no four vertically consecutive empty squares. However, Variation 2 can fit horizontally in the bottom row:
 
